@@ -1,4 +1,4 @@
-# pr
+# vue_chat
 
 ## Project setup
 ```
