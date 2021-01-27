@@ -1,6 +1,11 @@
 <template>
   <div class="home">
-    <h1>Самый лучший сайт в мире !</h1>
+    <img src="/img/off.jpg" alt="" />
   </div>
 </template>
 
+<style>
+div {
+  background-color: black;
+}
+</style>

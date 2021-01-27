@@ -1,5 +1,10 @@
 <template>
   <div class="about">
-    <h1>Здесь будет информация о нашем сайте !</h1>
+    <img src="/img/on.jpg" alt="" />
   </div>
 </template>
+<style>
+div {
+  background-color: black;
+}
+</style>
